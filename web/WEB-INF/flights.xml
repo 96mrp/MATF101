@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flights>
+    <flight>
+        <id>1</id>  
+        <departure>1:00</departure>    
+        <arrival>2:00</arrival>    
+        <price>$120</price>
+        <seats>20</seats>
+        <origin>sydney</origin>
+        <destination>gold coast</destination>
+        <type>domestic</type>
+    </flight>
+    <flight>
+        <id>2</id> 
+        <departure>3:00</departure>    
+        <arrival>4:00</arrival>    
+        <price>$130</price>
+        <seats>14</seats>
+        <origin>sydney</origin>
+        <destination>melbourne</destination>
+        <type>domestic</type>
+    </flight>
+</flights>

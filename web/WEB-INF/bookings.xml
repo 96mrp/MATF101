@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<bookings>
+    <booking>
+        <flightId>1</flightId>
+        <booker>alex</booker>
+    </booking>
+       <booking>
+        <flight>2</flight>
+        <booker>michael</booker>
+    </booking>       
+    <booking>
+        <flightId>3</flightId>
+        <booker>terry</booker>
+    </booking>
+</bookings>
